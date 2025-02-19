@@ -1,4 +1,5 @@
 # meu-primeiro-repositorio
-este repositório foi criado para completar a atividade tratada em aula
-
+Projeto 1° Tri
 projeto desenvolvido com variaveis e funções na linguagem JavaScript
+
+Item 4 - Inclusao e programação dos botões "Entrar" e "Login"
